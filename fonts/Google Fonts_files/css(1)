@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Droid Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=SlGXmQWMvZQIdix7AFxXsHVSbQ4fQk-bzAzXTdgGcA&skey=89a402e2c0235a02&v=v3) format('woff2');
+}

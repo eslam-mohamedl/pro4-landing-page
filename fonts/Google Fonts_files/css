@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Droid';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/l/font?kit=JTUXjIc84y-w5RX0eAp_4Colp2GR&skey=773d9696db12a274&v=v1) format('woff2');
+}
